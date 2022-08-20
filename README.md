@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hortincr(1328324219@qq.com).
+- 👋 Hi, I’m @Hortincr(hortincr@qq.com).
 - this is a code.XD
 <!---
 Hortincr/Hortincr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
